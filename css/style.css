@@ -1,0 +1,17 @@
+@import url("components/container.css");
+@import url("components/banner.css");
+@import url('components/socialmedias.css');
+@import url('components/card.css');
+@import url('https://fonts.googleapis.com/css?family=Baskervville|Gelasio&display=swap');
+
+body{
+	background-color: rgb(240,240,240);
+}
+
+#introduction{
+	font-family: Baskervville,serif;
+	letter-spacing: 3px;
+	font-size: 17px;
+	margin-bottom: 45px;
+	margin-top: 45px;
+}
